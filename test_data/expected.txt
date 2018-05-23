@@ -1,0 +1,15 @@
+Expected: 6
+Expected: 24
+Expected: 2
+Expected: -580
+Expected: Empty string
+Expected: Operators unmatched
+Expected: Invalid syntax
+Expected: Invalid syntax
+Expected: Invalid syntax 
+Expected: Too many plus/minus operators
+Expected: 3
+Expected: 3
+Expected: 256
+Expected: -5
+Expected: Division by zero

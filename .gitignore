@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+build/*
+CMakeFiles/*
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+calculator
+runTests
+test_data/result.txt
+
